@@ -1,0 +1,8 @@
+/* pages/demo03/demo03.wxss */
+@import "../../styles/common.wxss";
+view {
+  height: 200rpx;
+  font-size: 40rpx;
+  background-color: aqua;
+  width: calc(750rpx * 100 / 375);
+}
